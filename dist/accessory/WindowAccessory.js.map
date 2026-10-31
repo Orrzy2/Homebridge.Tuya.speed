@@ -1,0 +1,1 @@
+{"version":3,"file":"WindowAccessory.js","sourceRoot":"","sources":["../../src/accessory/WindowAccessory.ts"],"names":[],"mappings":";;;;;AAAA,wFAAgE;AAEhE,MAAqB,eAAgB,SAAQ,iCAAuB;IAClE,WAAW;QACT,OAAO,IAAI,CAAC,SAAS,CAAC,UAAU,CAAC,IAAI,CAAC,OAAO,CAAC,MAAM,CAAC;eAChD,IAAI,CAAC,SAAS,CAAC,UAAU,CAAC,IAAI,CAAC,OAAO,CAAC,MAAM,CAAC,CAAC;IACtD,CAAC;CACF;AALD,kCAKC"}
